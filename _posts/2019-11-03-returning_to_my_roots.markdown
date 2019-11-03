@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Returning to my Roots"
-date:       2019-11-03 20:09:47 +0000
+date:       2019-11-03 15:09:47 -0500
 permalink:  returning_to_my_roots
 ---
 
 
-Growing up, math constantly captivated me. It's black and white nature, combined with the trill when more complex theories became gray around the edges. The pathways of logic I could follow in my mind. And the sense of peace I found when I could draw a clean box around my answer, at the bottom of a page filled with neat, ordered lines of mathematical reasoning. People often say that you either love math or absolutley hate it. I feel fortunate to fall into the former group. Math comforted me as a student in primary school, and that feeling has extended into my adult life as well.
+Growing up, math constantly captivated me. It's black and white nature, combined with the thrill when more complex theories became gray around the edges. The pathways of logic I could follow in my mind. And the sense of peace I found when I could draw a clean box around my answer, at the bottom of a page filled with neat, ordered lines of mathematical reasoning. People often say that you either love math or absolutley hate it. I feel fortunate to fall into the former group. Math comforted me as a student in primary school, and that feeling has extended into my adult life as well.
 
 My path and journey with mathematics has not been nearly as linear as my feelings about the subject, however. As an undergraduate student at the University of Washington in Seattle, my desire for self-exploration and identity development pulled me in a multitude of directions, oftentimes away from this core interest in logic, reasoning, and mathematics. While I took some math courses throughout my four years, earning nearly enough credits for a minor, my interests in social justice and urban development led me to an eventual major in human geography and a spot in the class of 2017 corps members with Teach For America.
 
