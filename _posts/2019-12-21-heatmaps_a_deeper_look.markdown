@@ -12,6 +12,5 @@ By definition, a heatmap is "a graphical representation of data where values are
 
 Similar to the heatmap, the choropleth map adds a geographic dimension to our already multi-dimensional visualization. Especially throughout my exploration of data from the modern Olympic Games, I found this relative of the heatmap to be extraordinarily effective in analyzing the games as a culture landmark that crosses and is defined by our international relationships and boundaries. Below, I display and briefly explore different heatmaps that I have utilized through several projects during Flatiron School's data science bootcamp program, as well as some intriguing versions of the heatmap from other data scientists.
 
-file:///Users/huntersapienza/Desktop/Screen%20Shot%202019-12-21%20at%2011.04.07%20AM.png
-
+![Multicollinearity Heatmap](file:///Users/huntersapienza/Desktop/Screen%20Shot%202019-12-21%20at%2011.04.07%20AM.png)
 
