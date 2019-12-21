@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Reflections On My First Classification Problem"
-date:       2019-12-21 19:15:39 +0000
+date:       2019-12-21 14:15:40 -0500
 permalink:  reflections_on_my_first_classification_problem
 ---
 
