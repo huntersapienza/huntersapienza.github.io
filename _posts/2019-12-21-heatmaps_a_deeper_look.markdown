@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Heatmaps: A Deeper Look"
-date:       2019-12-21 16:23:10 +0000
+date:       2019-12-21 11:23:11 -0500
 permalink:  heatmaps_a_deeper_look
 ---
 
@@ -14,6 +14,8 @@ Similar to the heatmap, the choropleth map adds a geographic dimension to our al
 
 ![](file:///Users/huntersapienza/Desktop/Screen%20Shot%202019-12-21%20at%2011.04.07%20AM.png)
 
-
+```
+file:///Users/huntersapienza/Desktop/Screen%20Shot%202019-12-21%20at%2011.04.07%20AM.png
+```
 
 
