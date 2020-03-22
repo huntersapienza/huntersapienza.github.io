@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Our Quaratined Life: Technological Access and Innovation"
-date:       2020-03-22 20:53:24 +0000
+title:      "Our Quarantined Life: Technological Access and Innovation"
+date:       2020-03-22 16:53:25 -0400
 permalink:  our_quaratined_life_technological_access_and_innovation
 ---
 
@@ -27,6 +27,6 @@ Given the transmissabilty of the virus, all local fitness studios and gyms shut 
 
 ### Learn something new!
 
-Quaratining within our apartments allows us to reclaim much of the time lost in our daily commutes to/from work, more frequent visits to the grocery store for just a few items at a time, and social gatherings at restaurants, bars, or other destinations around the city. In this salvaged time, I have enjoyed spending more time learning a variety of new things, through different apps, and even in seemingly-antiquated hard copy books. So far, in this time I have been honing my Spanish language skills (through [Duolingo](http://duolingo.com)), studying the conceptual foundation of machine learning algorithms in ["The Hundred-Page Machine Learning Book"](http://themlbook.com), and catching up on my ever-increasing stack of novels (right now, I'm grappling with the emotionally-taxing, 800-pages-dense novel by Hanya Yanagihara, ["A Little Life"](https://www.newyorker.com/books/page-turner/the-subversive-brilliance-of-a-little-life)).
+Quarantining within our apartments allows us to reclaim much of the time lost in our daily commutes to/from work, more frequent visits to the grocery store for just a few items at a time, and social gatherings at restaurants, bars, or other destinations around the city. In this salvaged time, I have enjoyed spending more time learning a variety of new things, through different apps, and even in seemingly-antiquated hard copy books. So far, in this time I have been honing my Spanish language skills (through [Duolingo](http://duolingo.com)), studying the conceptual foundation of machine learning algorithms in ["The Hundred-Page Machine Learning Book"](http://themlbook.com), and catching up on my ever-increasing stack of novels (right now, I'm grappling with the emotionally-taxing, 800-pages-dense novel by Hanya Yanagihara, ["A Little Life"](https://www.newyorker.com/books/page-turner/the-subversive-brilliance-of-a-little-life)).
 
 In the weeks to come, I'll follow-up on this post with updates on the status of our quarantined life, addressing the ways in which technology continues to improve an otherwise difficult situation. Given the magnitude of historical pandemics such as the Spanish Influenza, we are very fortunate to live in a time when our access to technology allows us to maintain some sense of normalcy, as well as tackle this new virus with the full force of our medical and technological innovation.
