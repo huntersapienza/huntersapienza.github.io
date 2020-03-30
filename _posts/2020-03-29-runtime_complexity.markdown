@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Runtime Complexity"
-date:       2020-03-30 00:42:20 +0000
+date:       2020-03-29 20:42:21 -0400
 permalink:  runtime_complexity
 ---
 
@@ -50,7 +50,7 @@ With regards to time complexity, we use the following notations:
 
 As illustrated in the graph of operations vs. elements below, our above list is order from fastest to slowest notation.
 
-![](https://github.com/huntersapienza/Blogging/blob/master/Runtime%20Complexity/Runtime%20Complexity%20Graph.jpeg)
+![](https://github.com/huntersapienza/Blogging/blob/master/Runtime%20Complexity/Runtime%20Complexity%20Graph.jpeg?raw=true)
 
 **O(1) - Constant Time**
 
