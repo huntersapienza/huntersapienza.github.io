@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Binary Search Tree"
-date:       2020-04-05 16:31:21 +0000
+date:       2020-04-05 12:31:22 -0400
 permalink:  binary_search_tree
 ---
 
