@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Technical Interview Coding Challenge Experience"
-date:       2020-05-02 15:55:03 +0000
+date:       2020-05-02 11:55:03 -0400
 permalink:  technical_interview_coding_challenge_experience
 ---
 
@@ -25,24 +25,30 @@ Below is the code challenge presented to me in the interview and the final solut
 *For example:*
 
 *Haystack*
+```
 1122344456
 6678899990
 0112334567
 8891111233
 3234556789
 9011344445
+```
 
 *Needle*
+```
 66788
 01123
 88911
+```
 
+```
 * * * * * * * * * *
 66788 * * * * *
 01123 * * * * *
 88911 * * * * *
 * * * * * * * * * *
 * * * * * * * * * *
+```
 
 *The needle is located starting at  row 1, column 0*
 
