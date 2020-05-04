@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Quarantine Reading List"
-date:       2020-04-26 18:38:10 +0000
+date:       2020-04-26 14:38:11 -0400
 permalink:  quarantine_reading_list
 ---
 
@@ -38,7 +38,7 @@ Read the book summary below, and find this title on [Barnes & Noble](https://www
 
 As mentioned in some of my previous blog posts, this book is a MUST-HAVE for all data scientists and machine learning engineers. How the author manages to squeeze so much concise, useful information into just over one hundred pages is beyond me, but this is *always* the first resource I go to with questions about how to tackle a data science problem or for more in-depth conceptual information about a topic. With an additional online resource database, this book is the gift that keeps on giving, as Burkov and his team continue to update the hub with tools, links, and readings that supplement the book's original content. Though I feel I have barely scratched the surface of the book's usability, I'm excited to keep it by my side throughout my data science journey, especially in these first steps into a new career (wherever that may be!).
 
-Read the book summary below, and find this title on [Barnes & Noble]https://www.barnesandnoble.com/w/the-hundred-page-machine-learning-book-andriy-burkov/1130417933?ean=9781999579517) and [Amazon](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-ebook/dp/B07MGCNKXB/ref=sr_1_1?crid=NDAHV94R7DAY&dchild=1&keywords=the+hundred+page+machine+learning+book&qid=1587924350&s=books&sprefix=the+hundred+page+%2Cstripbooks%2C646&sr=1-1):
+Read the book summary below, and find this title on [Barnes & Noble](https://www.barnesandnoble.com/w/the-hundred-page-machine-learning-book-andriy-burkov/1130417933?ean=9781999579517) and [Amazon](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-ebook/dp/B07MGCNKXB/ref=sr_1_1?crid=NDAHV94R7DAY&dchild=1&keywords=the+hundred+page+machine+learning+book&qid=1587924350&s=books&sprefix=the+hundred+page+%2Cstripbooks%2C646&sr=1-1):
 
 *As its title says, it's the hundred-page machine learning book. It was written by an expert in machine learning holding a Ph.D. in Artificial Intelligence with almost two decades of industry experience in computer science and hands-on machine learning.*
 
